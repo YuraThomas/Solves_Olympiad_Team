@@ -1,12 +1,16 @@
-![](B/media/image1.png)
+<img src="B/media/image1.png" style="width: 65%; height: auto;" />
 
-![](B/media/image2.png)
+<img src="B/media/image2.png" style="width: 25%; height: auto;" />
+
+**Оценим конентрацию обломков**
 
 $V = 4\pi R^{2} \cdot h = \left( 6350 \cdot 10^{3} \right)^{2} \cdot 100 \cdot 10^{3} \cdot 4 \cdot 3.14 = 5 \cdot 10^{19}\ м^{3}$
 
 $n = \frac{N}{V} = \frac{10^{4}}{5 \cdot 10^{19}} = 2 \cdot 10^{- 16}\ м^{- 3}\ $
 
-![](B/media/image3.png)
+**Оценка пролета для столкновения**
+
+<img src="B/media/image3.png" style="width: 65%; height: auto;" />
 
 $\mathrm{\Delta}N = n \cdot S \cdot T \cdot v = 1 - условие\ столкновения\ 2\ частиц$
 
