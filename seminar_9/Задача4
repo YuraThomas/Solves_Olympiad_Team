@@ -1,0 +1,32 @@
+<img width="686" height="133" alt="download" src="https://github.com/user-attachments/assets/99ebb4c1-a5e5-45ed-964d-1ed8879ae952" />
+
+$dE/dt = - (e² / (6πc³)) * a²$
+
+$F = e * v * Bм$
+
+$m * a = e * v * B  =>  a = (e * v * B) / m$
+
+$E = (1/2) * m * v²  =>  v = sqrt(2E / m)$
+
+$a² = (e² * B² / m²) * (2E / m) = (2e²B² / m³) * E$
+
+Решаем диффур
+$dE/dt = - (e² / (6πc³)) * [ (2e²B² / m³) * E ]$
+
+$α = (2e⁴B²) / (6πc³m³) = (e⁴B²) / (3πc³m³)$
+
+$dE/dt = -α * E$
+
+решение диффура:
+$E(t) = E₀ * exp(-αt)$
+
+ Оценка числа оборотов до остановки:
+$ω = eB / m  =>  f = ω / (2π) = eB / (2πm)$
+
+$N ≈ f * τ = f / α$
+
+$N ≈ [ eB / (2πm) ] / [ (e⁴B²) / (3πc³m³) ]$
+
+$N ≈ (eB / (2πm)) * ( (3πc³m³) / (e⁴B²) )$
+
+$N ≈ (3c³m²) / (2e³B)$
